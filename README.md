@@ -1,7 +1,4 @@
-# Credit Card Fraud Detection with Pure NumPy
-
-Phát hiện giao dịch thẻ tín dụng gian lận sử dụng Machine Learning với NumPy thuần túy - không phụ thuộc vào thư viện ML có sẵn.
-
+# Credit Card Fraud Detection
 ---
 
 ## Mục lục
