@@ -512,9 +512,12 @@ Fraud_dectection/
 
 ## Tác giả
 
-Họ và tên: **Cao Tấn Hoàng Huy**  
+Họ và tên: **Cao Tấn Hoàng Huy**
+
 MSSV: **23127051**
+
 Email: **cthhuy23@clc.fitus.edu.vn**
+
 Trường Đại học Khoa học tự nhiên, ĐHQG-HCM (HCMUS)
 ---
 ##  License
