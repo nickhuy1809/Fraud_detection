@@ -1,0 +1,11 @@
+# Requirements for Credit Card Fraud Detection Project
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: Jupyter for running notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
